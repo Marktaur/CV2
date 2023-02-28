@@ -1,0 +1,74 @@
+
+
+h1 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: oblique;
+color: rgb(106, 68, 177);
+}
+p {
+    font-family: cursive;
+    color: rgb(77, 76, 76);
+    max-width: 100%;
+}
+h1 {
+    display: inline-block;
+     padding: 20px;
+     font-size: 40px;
+}
+*{
+    background-color: #e3d9fa;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fotoperfil{
+    display: inline-flex;
+  ;
+}
+figure {
+    border-radius: 100%;
+    width: 200px;
+    overflow: hidden;
+}
+.link {
+    background-color: aqua; 
+    display: block;
+}
+.contenedor1  {
+    
+    display: flex;
+    
+    
+    
+    
+}
+.contenedor2 {
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+    margin-bottom: 20px;
+    
+   
+    
+}
+
+.contenedor3 {
+    background-color: #2be2b4;
+    width: 500px;
+    height: 200px;
+    margin-bottom: 20px;
+    
+}
+.tilde {
+    list-style-image:url(check-solid.svg)
+}
+a:link, a:visited {
+    color: hsl(261, 83%, 50%);
+}
+.descarga {
+    display: block;
+}
+
+    
+   
+    
